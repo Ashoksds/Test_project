@@ -21,7 +21,7 @@ public class PalindromeOrNot {
 			l++;
 		}
 		
-			System.out.println("Is Palindrome :"+s2);
+			System.out.println("Is Palindromes :"+s2);
 		
 
 	}
