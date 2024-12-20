@@ -8,7 +8,7 @@ public class ReplaceFirst4LettersInString {
 		String s="jkijmber";
 	    String replace="cucu";
 	    String result =replace+s.substring(3,5);
-	    System.out.println(result);
+	    System.out.println(result+"gg");
 		
 				
 
